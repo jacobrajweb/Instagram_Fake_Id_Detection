@@ -1,4 +1,5 @@
 # fake_instagram_account_detection
+
 ## WORKING PRINCIPLE
 
 1. **Initial Dataset:**
@@ -24,17 +25,15 @@
 
 5. **Data Retrieval:**
    - Utilized the Python library Instaloader to retrieve real-time data of an account.
-
-   For more information about Instaloader, refer to [its documentation](https://instaloader.github.io/).
+     For more information about Instaloader, refer to [its documentation](https://instaloader.github.io/).
 
 6. **Model Usage:**
    - Input the retrieved data into our model to determine whether it is a fake or real account.
 
-OUTPUT:
-![image](https://github.com/jacobrajweb/fake_instagram_account_detection/assets/149454092/891bb2a4-ea72-4782-8238-a3ce44e8154c)
+   OUTPUT:
+   ![image](https://github.com/jacobrajweb/fake_instagram_account_detection/assets/149454092/891bb2a4-ea72-4782-8238-a3ce44e8154c)
 
-Now Enter the username , which you need to check 
+   Now Enter the username, which you need to check 
 
-The output looks like below , 
-
-![image](https://github.com/jacobrajweb/fake_instagram_account_detection/assets/149454092/2c5f084d-58fe-4303-87e2-edc52631e7aa)
+   The output looks like below:
+   ![image](https://github.com/jacobrajweb/fake_instagram_account_detection/assets/149454092/2c5f084d-58fe-4303-87e2-edc52631e7aa)
