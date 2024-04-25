@@ -38,5 +38,10 @@
 
    Now Enter the username, which you need to check 
 
+
+
    The output looks like below:
+
+
+   
    ![image](https://github.com/jacobrajweb/fake_instagram_account_detection/assets/149454092/2c5f084d-58fe-4303-87e2-edc52631e7aa)
