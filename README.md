@@ -31,6 +31,9 @@
    - Input the retrieved data into our model to determine whether it is a fake or real account.
 
    OUTPUT:
+
+
+
    ![image](https://github.com/jacobrajweb/fake_instagram_account_detection/assets/149454092/891bb2a4-ea72-4782-8238-a3ce44e8154c)
 
    Now Enter the username, which you need to check 
