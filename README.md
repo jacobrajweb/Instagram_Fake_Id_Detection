@@ -9,7 +9,7 @@ WORKING PRINCIPLE
              Column1.userBiographyLength: Length of the user's biography text (integer)
              Column1.userMediaCount: Total number of media posts by the user (integer)
              Column1.userHasProfilPic: Binary indicator (1: has profile picture, 0: no profile picture)
-			 Column1.userIsPrivate: Binary indicator (1: private account, 0: public account)
+			       Column1.userIsPrivate: Binary indicator (1: private account, 0: public account)
              Column1.usernameDigitCount: Number of digits present in the username (integer)
              Column1.usernameLength: Total length of the username (integer)
              Column1.isFake: Target variable indicating account type (1: fake account, 0: real account)
